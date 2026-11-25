@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://veteran1977.github.io/sitemap.xml
+Sitemap: https://1977veteran.github.io/sitemap.xml
